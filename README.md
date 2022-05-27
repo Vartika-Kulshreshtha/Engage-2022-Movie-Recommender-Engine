@@ -1,18 +1,18 @@
-WATCH NEXT - The Movie Recommendation Engine
+# WATCH NEXT - The Movie Recommendation Engine
 
-Submission for MICROSOFT ENGAGE 2022 📽️
+## Submission for MICROSOFT ENGAGE 2022 📽️
 
-CHALLENGE 3 - ALGORITHMS
+### CHALLENGE 3 - ALGORITHMS
 
 ![image](https://user-images.githubusercontent.com/105620882/170768838-423be01c-976f-425b-8189-dd1fe0c052dd.png)
 
-Problem Description :
+### Problem Description :
 
 Sorting Algorithms play an important role in recommendation engines. By the end of the project, the following questions should be answered : - What role is played by sorting algorithms in recommendation engine. - Which sorting algorithm is used in this project and why?
 In this project, I have implemented Recommendation Engine for Movies.
 
 
-Answering the questions :
+### Answering the questions :
 
 To understand the role of sorting algorithms and make a choice, one should know the different types of filtering algorithms present. They are:
 
@@ -31,7 +31,7 @@ relevant to the user (content similarity) avoid cold start to the problem. There
 Take a look at the presentation https://drive.google.com/file/d/1b0h-5Tvuz-w6h19KqV1Ta8a_46Qidjye/view?usp=sharing 
 
 
-How to run the project?
+### How to run the project?
 
 To install and run the project on your local system, following are the requirements:
 
