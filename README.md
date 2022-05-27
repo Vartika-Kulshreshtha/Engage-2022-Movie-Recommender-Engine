@@ -16,9 +16,9 @@ In this project, I have implemented Recommendation Engine for Movies.
 
 To understand the role of sorting algorithms and make a choice, one should know the different types of filtering algorithms present. They are:
 
-1.Content-based filtering - In this, content is recommended to a user based on the past content-interaction of the same user.
-2.Collaborative filtering - In this, content is recommended to a user based on the similarity of that user's content-interaction to another user's content-interaction. Users with similar activities are recommeded similar contents.
-3.Hybrid filtering - This is a combination of Content-based and Collaborative filtering.
+1. Content-based filtering - In this, content is recommended to a user based on the past content-interaction of the same user.
+2. Collaborative filtering - In this, content is recommended to a user based on the similarity of that user's content-interaction to another user's content-interaction. Users with similar activities are recommeded similar contents.
+3. Hybrid filtering - This is a combination of Content-based and Collaborative filtering.
 
 My objective was to implement an approach that would be :
 relevant to the user (content similarity) avoid cold start to the problem. Therefore, content-based filtering approach has been used in this project.
