@@ -28,7 +28,7 @@ relevant to the user (content similarity) avoid cold start to the problem. There
   The datasets are also available with this repo.
 * Hey There! If the movie that you are looking for is not auto-suggested. Just type the movie name in the search barand click on "Enter". You will be good to go eventhough if you made some typo errors.
 
-Take a look at the presentation  
+Take a look at the presentation: https://drive.google.com/file/d/19wOiJye__9Z2Er5bmdGEWCrBLjdQ4z7j/view?usp=sharing 
 
 
 ### How to run the project?
