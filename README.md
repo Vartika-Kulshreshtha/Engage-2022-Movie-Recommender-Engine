@@ -68,5 +68,5 @@ These files will be used during the execution of ``main.py`` file.
 
 
 ### Need help?
-Feel free to contact me on [LinkedIn >](https://www.linkedin.com/in/vartika-kulshreshtha-659157218/)"
+Feel free to contact me on [LinkedIn >](https://www.linkedin.com/in/vartika-kulshreshtha-659157218/)
 
