@@ -63,8 +63,8 @@ To install and run the project on your local system, following are the requireme
 After completing the execution of this file, there will be two files downloaded to the main folder : movies_list.pkl, similarity.pkl
 These files will be used during the execution of ``main.py`` file.
 
-1. Clone or download this repository to your local machine.
-2. Install all the libraries mentioned in the requirements.txt file with the command ```pip install -r requirements.txt```
+1. Clone or download this repository to your local machine and this [similarity.pkl file >](https://drive.google.com/file/d/1eXtCnUd-1Sl67RaG9zQuXhXXfS2BD82A/view?usp=sharing) also.
+2. 2. Install all the libraries mentioned in the requirements.txt file with the command ```pip install -r requirements.txt```
 3. Open your terminal/command prompt from your project directory and run the file main.py by executing the command ```streamlit run main.py``` or ```streamlit run 'path of the file'``` .
 4. It will automatically open the website or go to your browser and type http://192.168.0.106:8501 in the address bar.
 5. Hurray! That's it.
