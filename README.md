@@ -68,23 +68,5 @@ These files will be used during the execution of ``main.py`` file.
 
 
 ### Need help?
-Feel free to contact me on [LinkedIn >](https://www.linkedin.com/in/vartika-kulshreshtha-659157218/)
-
-``
-I have a README.md file for my project underscore-cli, and I want to document the --color flag.
-
-Currently, the only way to do this is with a screenshot (which can be stored in the project repository):
-
-example.png
-
-But screenshots aren't text, preventing readers from copy/pasting the command in the screenshot. They're also a pain to create / edit / maintain, and are slower for browsers to load. The modern web uses text styles, not a bunch of rendered images of text.
-
-While some Markdown parsers support inline HTML styling, GitHub doesn't; this doesn't work:
-
-<span style="color: green"> Some green text </span>
-This doesn't work:
-
-<font color="green">if (youEnjoyed)</font> {
-    starThisRepository();
-}
+Feel free to contact me on [LinkedIn >](https://www.linkedin.com/in/vartika-kulshreshtha-659157218/)"
 
