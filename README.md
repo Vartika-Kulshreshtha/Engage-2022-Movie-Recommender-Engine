@@ -31,7 +31,7 @@ Create an account in https://www.themoviedb.org/, click on the ```API``` link fr
 * Hey There! If the movie that you are looking for is not auto-suggested. Just type the movie name in the search barand click on "Enter". You will be good to go eventhough if you made some typo errors.
 
 
-Take a look at the presentation: https://drive.google.com/file/d/19wOiJye__9Z2Er5bmdGEWCrBLjdQ4z7j/view?usp=sharing 
+Take a look at the presentation: [Here >](https://drive.google.com/file/d/1NQpJCgtzTNenonXvP0acgf9My9WykLgv/view?usp=sharing) 
 
 
 ### Cosine Similarity used here:
